@@ -1,3 +1,4 @@
 be-frontend-developer
 -belajar roadmap frontend dengan semangat
 -mendapatkan pekerjaan ditahun 2022 paling telat 2033
+-selanjutnya akan belajar menjadi fullstack developer
