@@ -1,6 +1,9 @@
 be-frontend-developer
 -belajar roadmap frontend dengan semangat
 -pahami belajar frontend
-belajar boostrap 
+belajar framework
+--vue js
 -selanjutnya akan belajar menjadi fullstack developer
--sehat selalu
+belajar php
+-tetap semangat!!!
+
