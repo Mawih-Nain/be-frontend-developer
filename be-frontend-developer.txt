@@ -1,4 +1,5 @@
 be-frontend-developer
 -belajar roadmap frontend dengan semangat
+-pahami belajar frontend
 -selanjutnya akan belajar menjadi fullstack developer
 -tetap semangat!!!
